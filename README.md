@@ -1,5 +1,6 @@
 # robofriends
-A simple React project that covers some basics of React
+A simple React project tutorial from Udemy that covers some basics of React
+
 To run the project:
 
 1. Clone this repo
