@@ -1,5 +1,5 @@
 # robofriends
-A simple React project tutorial from Udemy that covers some basics of React
+A simple React project from Udemy that covers some basics of React. Created while learning web development.
 
 To run the project:
 
